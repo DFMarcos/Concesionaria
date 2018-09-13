@@ -1,4 +1,4 @@
-package nuevaconcecionaria;
+package nuevaconcesionaria;
 public class Auto {
     private String nombre;
     private String modelo;
